@@ -1,13 +1,11 @@
-# Web Starter
+# The Clock App
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-starter)
 
+> A web app that displays the current time.
 
-> Computers are dumb. Humans make them smart.
+## Why does this exist? 
 
-Starter (boilerplate) for all future projects.
+## What is it? 
 
-## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## How does it work?
